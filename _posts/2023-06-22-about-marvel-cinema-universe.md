@@ -8,3 +8,6 @@ tags: [MCU]     # TAG names should always be lowercase
 # About Marvel Cinema Universe
 
 ## My favorite Movie Series
+
+... which is shown in the screenshot below:
+![My favorite wallpaper](/assets/images/ironman.jpg)
