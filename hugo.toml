@@ -1,7 +1,7 @@
 baseURL = 'https://shiz.blog/'
 languageCode = 'en-us'
 title = 'Shi Blog'
-googleAnalytics = ""
+googleAnalytics = "G-XHTCX2ESH4"
 
 [params]
   header_image = "img/ryuhyou.jpeg"
