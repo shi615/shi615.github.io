@@ -1,0 +1,91 @@
+baseURL = 'https://shiz.blog/'
+languageCode = 'en-us'
+title = 'Shi Blog'
+googleAnalytics = ""
+timeZone = "Asia/Tokyo"
+publishDir = "docs"
+
+[params]
+  header_image = "img/ryuhyou.jpeg"
+  SEOTitle = "Zhiguang Shi's Blog"
+  description = "Computer Science Student | Odaka Lab | Hack The Box | Programmer | Fitness Buff | Passionate about Reading & Personal Growth | Have a Vision for Mars"
+  keyword = "石, shi, shi, Shi's Blog, イシ"
+  slogan = ""
+  subtitle = 'This is Zhiguang Shi blog'
+
+  image_404 = "img/404-bg.jpg"
+  title_404 = "There is nothing here :("
+  omit_categories = false
+
+  # Sidebar settings
+  about_me = true
+  sidebar_about_description = "INTJ | Computer Science Student | Odaka Lab | Hack The Box | Programmer | Fitness Buff | Passionate about Reading & Personal Growth | Have a Vision for Mars"
+  sidebar_avatar = "/img/newAvatar.png"      
+  # use absolute URL, seeing it's used in both `/` and `about/`
+
+  # featured_tags = true 
+  # featured_condition_size = 1 
+
+  bookmarks = true
+
+  # Include any custom CSS and/or JS files, url or relative to /static folder
+  #custom_css = ["css/lightbox.css", "https://cdnjs.cloudflare.com/ajax/libs/animate.css/3.7.2/animate.min.css", "css/main.css"]
+  #custom_js = ["js/lightbox.js", "https://cdnjs.cloudflare.com/ajax/libs/jquery/3.4.1/jquery.min.js", "js/main.js"]
+
+  [params.social]
+    rss = true 
+    email = 't0nybb91sh1@gmail.com'
+    github = "https://github.com/shi615"
+    twitter = "https://x.com/Zh1guangSh1"
+    linkedin = "https://www.linkedin.com/in/zhiguang-shi/"
+
+  # [[params.friend_link]]
+  # title = "Linda的博客"
+  # href =  "https://zhaozhihan.com"
+
+  [[params.bookmark_link]]
+  title =  "Hack The Box"
+  href =  "https://www.hackthebox.com/"
+  [[params.bookmark_link]]
+  title = "Odaka Lab"
+  href =  "https://www.m.his.u-fukui.ac.jp/"
+  [[params.bookmark_link]]
+  # title =  "Pxhere"
+  # href = "https://pxhere.com"
+  [[params.bookmark_link]]
+  # title = "unsplash"
+  # href = "https://unsplash.com"
+  
+  #[[params.addtional_menus]]
+  #title =  "BOOKS"
+  #href =  "/books/"
+  #[[params.addtional_menus]]
+  #title =  "TRAVEL"
+  #href =  "/travle/"
+  [[params.addtional_menus]]
+  title =  "ABOUT"
+  href =  "/about/"
+  [[params.addtional_menus]]
+  title =  "ARCHIVE"
+  href =  "/archive/"
+
+
+  title_404 = "你来到了没有知识的荒原 :("
+  omit_categories = false
+
+# algolia site search
+algolia_search = true
+algolia_appId = "A5ABAQ81YV"
+algolia_indexName = "shi's search"
+algolia_apiKey = "59400977bd9095205f531c80ec6bc960"
+
+[params.algolia]
+vars = ["title", "summary", "date", "publishdate", "expirydate", "permalink"]
+params = ["categories", "tags"] 
+
+[markup]
+  [markup.tableOfContents]
+    endLevel = 2
+    startLevel = 1
+  [markup.highlight]
+    style = "dracula"

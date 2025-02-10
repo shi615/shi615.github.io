@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url>
+    <loc>https://shiz.blog/tags/hello/</loc>
+    <lastmod>2024-12-25T00:00:00+09:00</lastmod>
+  </url><url>
+    <loc>https://shiz.blog/tags/merry-christmas/</loc>
+    <lastmod>2024-12-25T00:00:00+09:00</lastmod>
+  </url><url>
+    <loc>https://shiz.blog/post/</loc>
+    <lastmod>2024-12-25T00:00:00+09:00</lastmod>
+  </url><url>
+    <loc>https://shiz.blog/</loc>
+    <lastmod>2024-12-25T00:00:00+09:00</lastmod>
+  </url><url>
+    <loc>https://shiz.blog/tags/</loc>
+    <lastmod>2024-12-25T00:00:00+09:00</lastmod>
+  </url><url>
+    <loc>https://shiz.blog/2024/12/25/hello-world/</loc>
+    <lastmod>2024-12-25T00:00:00+09:00</lastmod>
+  </url><url>
+    <loc>https://shiz.blog/about/</loc>
+  </url><url>
+    <loc>https://shiz.blog/archive/</loc>
+  </url><url>
+    <loc>https://shiz.blog/books/</loc>
+  </url><url>
+    <loc>https://shiz.blog/travle/</loc>
+  </url><url>
+    <loc>https://shiz.blog/categories/</loc>
+  </url>
+</urlset>
