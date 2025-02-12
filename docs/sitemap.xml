@@ -2,32 +2,32 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://shiz.blog/tags/hello/</loc>
+    <loc>http://localhost:1313/tags/hello/</loc>
     <lastmod>2024-12-25T00:00:00+09:00</lastmod>
   </url><url>
-    <loc>https://shiz.blog/tags/merry-christmas/</loc>
+    <loc>http://localhost:1313/tags/merry-christmas/</loc>
     <lastmod>2024-12-25T00:00:00+09:00</lastmod>
   </url><url>
-    <loc>https://shiz.blog/post/</loc>
+    <loc>http://localhost:1313/post/</loc>
     <lastmod>2024-12-25T00:00:00+09:00</lastmod>
   </url><url>
-    <loc>https://shiz.blog/</loc>
+    <loc>http://localhost:1313/</loc>
     <lastmod>2024-12-25T00:00:00+09:00</lastmod>
   </url><url>
-    <loc>https://shiz.blog/tags/</loc>
+    <loc>http://localhost:1313/tags/</loc>
     <lastmod>2024-12-25T00:00:00+09:00</lastmod>
   </url><url>
-    <loc>https://shiz.blog/2024/12/25/hello-world/</loc>
+    <loc>http://localhost:1313/2024/12/25/hello-world/</loc>
     <lastmod>2024-12-25T00:00:00+09:00</lastmod>
   </url><url>
-    <loc>https://shiz.blog/about/</loc>
+    <loc>http://localhost:1313/about/</loc>
   </url><url>
-    <loc>https://shiz.blog/archive/</loc>
+    <loc>http://localhost:1313/archive/</loc>
   </url><url>
-    <loc>https://shiz.blog/books/</loc>
+    <loc>http://localhost:1313/books/</loc>
   </url><url>
-    <loc>https://shiz.blog/travle/</loc>
+    <loc>http://localhost:1313/travle/</loc>
   </url><url>
-    <loc>https://shiz.blog/categories/</loc>
+    <loc>http://localhost:1313/categories/</loc>
   </url>
 </urlset>
